@@ -56,6 +56,7 @@
                     <div class="section-title-area ltn__section-title-2 text-center">
                         <h6 class="section-subtitle ltn__secondary-color">//  features  //</h6>
                         <h1 class="section-title">Why Choose Us<span>.</span></h1>
+                        <p>We are available always time here</p>
                     </div>
                 </div>
             </div>
@@ -111,6 +112,6 @@
     </div>
     <!-- FEATURE AREA END -->
 
-  
+
 
     @endsection
